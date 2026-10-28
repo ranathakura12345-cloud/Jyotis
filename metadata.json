@@ -1,0 +1,6 @@
+{
+  "name": "Jyotish",
+  "description": "Vedic Astrology app for daily horoscopes, personalized transit readings, and compatibility analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
